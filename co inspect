@@ -1,0 +1,6 @@
+Inspecciona quién robo algo de un cofre, rompió o coloco bloques en ciertas zonas con el comando:
+/co inspect
+Al activar el comando con click izquierdo podras ver el historial de las personas 
+que han interactuado con es bloque que has golpeado con click izquierdo.
+En cambio, al dar click derecho en un cofre podrás ver el historial de movimiento del cofre.
+IMPORTANTE: Para desactivar el comando escribe nuevamente el comando /co inspect
